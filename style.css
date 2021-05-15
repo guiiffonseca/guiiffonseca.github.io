@@ -1,0 +1,93 @@
+body{
+    background-color: #3b3a30;
+    color: #ffffff;
+    font-family:'Cairo', sans-serif;
+    font-size: 25px;
+    
+}
+
+h1{
+    font-family: 'Megrim', cursive;
+    border: 2px solid rgb(241, 212, 46);
+    color:rgb(241, 212, 46);
+    padding: 8px 16px;
+    text-align: center;
+}
+.border{
+    color: #ffffff;
+}
+
+.button{
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    margin-top: auto;
+
+}
+.infos{
+    text-decoration: solid;
+    text-align: justify;
+    
+}
+
+img{
+    border-radius: 25%;
+}
+
+.unix{ 
+    font-size: 30px;
+    }
+.html{ 
+    font-size: 35px;
+    }
+.css{  
+    font-size: 40px;
+    }
+.Inglês{
+    font-size: 45px;
+    }
+#foto{
+    color:#ffffff;
+    text-align: center;
+    padding-left: 120px;
+    font-size:medium;
+    padding-top: 0px;
+}
+
+.pic{
+    color:#ffffff;
+}
+
+.hab{
+    color:#ffffff;
+}
+
+.blog{
+    color:#ffffff;
+}
+
+.foto_Port{
+    float: left;
+    padding: 10px;
+    height: 380px;
+    background-color: rgb(241, 212, 46);
+}
+
+.image-container{
+    height: 400px;px;
+}
+
+.minha-descriçao{
+    text-align: center;
+    padding: 50px;
+}
+
+.naturalidade{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+div{
+    border: 2px solid red;
+}
