@@ -86,7 +86,7 @@ img{
 
 .naturalidade{
     text-align: center;
-    padding-bottom: 30px;
+   
 }
 
 ul li:nth-child(odd){
@@ -95,6 +95,7 @@ ul li:nth-child(odd){
 }
 .lista-habilidades{
     text-align: center;
+    padding-bottom: 30px;
 }
 
 .link-externo{
@@ -102,4 +103,5 @@ ul li:nth-child(odd){
 }
 .nerdtech{
     color: #ffffff;
+    padding-bottom: 30px;
 }
